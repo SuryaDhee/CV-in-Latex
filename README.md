@@ -1,3 +1,3 @@
 # CV-in-Latex
 
-CV as of August 7th 2019
+CV as of August 8th 2019
